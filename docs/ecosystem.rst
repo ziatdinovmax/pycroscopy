@@ -1,6 +1,12 @@
 Pycroscopy Ecosystem
 ====================
 
+Please see the poster below (click) for an overview of the Pycroscopy ecosystem
+
+.. image:: ./2021_Pycroscopy_Ecosystem_Poster_Thumbnail.png
+   :width: 300
+   :target: https://gitcdn.link/repo/pycroscopy/pycroscopy/master/docs/2021_Pycroscopy_Ecosystem_Poster.pdf
+
 Structure
 ~~~~~~~~~
 The following diagram provides a graphical representation and description of the several python packages that
